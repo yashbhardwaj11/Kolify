@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home"
+        />
+    <item android:title="Ads"
+        android:icon="@drawable/ic_baseline_ads_click_24"
+        android:id="@+id/ads"
+        />
+    <item android:title="Hackathon"
+        android:icon="@drawable/ic_baseline_computer_24"
+        android:id="@+id/hackathon"
+        />
+    <item android:title="Internship"
+        android:icon="@drawable/ic_baseline_folder_shared_24"
+        android:id="@+id/internship"
+        />
+    <item android:title="Profile"
+        android:icon="@drawable/profileview"
+        android:id="@+id/profile"
+        />
+
+</menu>
